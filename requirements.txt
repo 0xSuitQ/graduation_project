@@ -1,2 +1,4 @@
 pillow==11.0.0
+pycryptodome==3.21.0
+secretsharing==0.2.6
 ttkbootstrap==1.10.1
